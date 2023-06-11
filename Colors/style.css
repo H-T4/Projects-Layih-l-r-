@@ -1,0 +1,7 @@
+.container{
+    /*Ve burda container class vasitesile ile html faylima duzelisler edirem*/
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}

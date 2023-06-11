@@ -1,0 +1,8 @@
+var tipinde index deyiseni yaradiram 0 beraber edirem 
+sonra ChangeColors() adindan funksiya yaradiram 
+daha sonra var tipinde color deyiseni yaradib massivin daxiline  rengleri yaziram
+document getelementsbytagname den body aliram sonra massivin daxiline 0 indexi yaziram 
+sonra styledan backgorundunu colors deyiseni vasitesile massivin daxilinde indexi bir bir artiram 
+
+sonra if i istifade edib (index boyukdur colorsun uzunlugundan eksik 1 qeder yaziram 
+ve sonrada indexi yenide 0 beraber edirem
